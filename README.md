@@ -10,8 +10,7 @@
   <img align="center" alt="WesleyBootstrap"height = "30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="wesleymartinsbrito-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="wesleymartinsbrito-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="wesleymartinsbrito-Csharp" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <br> <br> <br> 
-  <img align="right" alt="wesleymartinsbrito-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif"> <br> <br> <br> <br> <br> <br> <br> 
+  <img align="center" alt="wesleymartinsbrito-Csharp" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
 </div>
   
   ##
